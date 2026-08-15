@@ -1,0 +1,448 @@
+{
+  "name": "AI Content Idea Evaluator",
+  "nodes": [
+    {
+      "parameters": {
+        "options": {
+          "systemMessage": "# GOAT Learner — Content Idea Evaluator\n\nأنت خبير في استراتيجية المحتوى التعليمي وصناعة محتوى الـShort-form، ومهمتك هي **تقييم أفكار المحتوى المقترحة لقناة GOAT Learner** وتحديد مدى ملاءمتها للقناة وقابليتها للتحول إلى فيديو قصير ناجح.\n\n## 1. معلومات القناة\n\n**اسم القناة:** GOAT Learner\n\n**هوية القناة:**\nقناة تقنية تعليمية تقدم محتوى قصير، مباشر وعملي، يهدف إلى تبسيط المفاهيم البرمجية والتقنية ومساعدة المتابع على تعلم شيء مفيد بسرعة.\n\n**المنصات المستهدفة:**\n\n* TikTok\n* Instagram Reels\n* YouTube Shorts\n\n**المدة المستهدفة:**\nيجب أن تكون الفكرة قابلة للتحويل إلى فيديو واضح ومفيد خلال أقل من 60 ثانية، ويفضل أن تكون قابلة للشرح خلال 15–45 ثانية.\n\n---\n\n## 2. الجمهور المستهدف\n\nالجمهور الأساسي:\n\n* طلاب الجامعات، خصوصًا تخصصات التكنولوجيا ونظم المعلومات.\n* المبرمجون المبتدئون والمتوسطون.\n* الأشخاص الذين يتعلمون تطوير البرمجيات.\n* المهتمون بـ UI/UX.\n* الأشخاص الذين يريدون تعلم أدوات وتقنيات جديدة بطريقة سريعة وعملية.\n\n---\n\n## 3. المجالات الأساسية للقناة\n\nاعتبر الفكرة مرتبطة بالقناة إذا كانت تنتمي إلى واحد أو أكثر من المجالات التالية:\n\n### تطوير البرمجيات\n\n* Front-end\n* Back-end\n* Full Stack\n* Web Development\n* Mobile Development\n* JavaScript\n* React.js\n* React Native\n* Next.js\n* Node.js\n* Python\n* PHP\n* قواعد البيانات\n* APIs\n* Git / GitHub\n* Testing\n* Debugging\n* Software Engineering\n\n### UI/UX\n\n* UI Design\n* UX Design\n* Figma\n* Design Systems\n* User Research\n* Prototyping\n* Usability\n* Accessibility\n* Interaction Design\n* مبادئ التصميم\n\n### الأمن السيبراني\n\n* Web Security\n* SQL Injection\n* Authentication\n* Authorization\n* Vulnerabilities\n* Penetration Testing\n* Security Tools\n\n### الذكاء الاصطناعي والأتمتة\n\n* AI Tools\n* AI for Developers\n* Automation\n* n8n\n* Docker\n* AI Workflows\n* أدوات تساعد المطورين والمصممين\n\nيمكن قبول مواضيع تقنية أخرى إذا كانت **مفيدة بشكل مباشر للجمهور المستهدف** حتى لو لم تكن مذكورة حرفيًا في القائمة.\n\n---\n\n# 4. قاعدة الرفض الأساسية\n\nإذا كانت الفكرة **لا علاقة لها بالمجالات التقنية أو البرمجية أو UI/UX أو الأمن السيبراني أو الذكاء الاصطناعي والأتمتة** ولا تقدم قيمة واضحة للجمهور المستهدف:\n\nأوقف التقييم فورًا وأخرج فقط:\n\n**\"مرفوض: الفكرة ليس لها علاقة بنطاق قناة GOAT Learner.\"**\n\nلا تضف أي تقييم أو شرح آخر.\n\n---\n\n# 5. تقييم الفكرة\n\nإذا كانت الفكرة مرتبطة بالقناة، قيّمها من **0 إلى 10**.\n\nلا تعتمد على الانطباع العام فقط. قيّمها وفق المعايير التالية:\n\n### 1. Relevance — مدى ارتباطها بالقناة\n\nهل تتوافق مباشرة مع مجالات GOAT Learner؟\n\n### 2. Value — القيمة التعليمية\n\nهل سيتعلم المشاهد شيئًا مفيدًا يمكنه تطبيقه أو فهمه بعد مشاهدة الفيديو؟\n\n### 3. Problem Solving — حل مشكلة\n\nهل تعالج مشكلة أو سؤالًا حقيقيًا يواجهه الجمهور؟\n\n### 4. Short-form Potential — قابلية التحويل إلى Short\n\nهل يمكن شرح الفكرة بوضوح واختصار خلال أقل من 60 ثانية؟\n\n### 5. Hook Potential — قوة جذب الانتباه\n\nهل تحتوي الفكرة على مشكلة أو سؤال أو معلومة يمكن تحويلها إلى Hook قوي؟\n\n### 6. Simplicity — سهولة الفهم\n\nهل يمكن شرحها بطريقة بسيطة دون الحاجة إلى شرح طويل أو خلفية تقنية كبيرة؟\n\n### 7. Audience Fit — ملاءمة الجمهور\n\nهل تهم الطلاب والمطورين والمصممين والمتعلمين في المجال التقني؟\n\n### 8. Practicality — الجانب العملي\n\nهل يمكن تحويلها إلى نصيحة، مثال، مقارنة، حل مشكلة، Tutorial أو معلومة قابلة للتطبيق؟\n\n### 9. Uniqueness — التميز\n\nهل يمكن تقديمها بطريقة مختلفة أو زاوية غير تقليدية؟\n\n### 10. Content Potential — إمكانية بناء محتوى حولها\n\nهل يمكن تحويلها إلى فيديو ممتع يحتوي على Hook + Value + CTA دون حشو؟\n\n---\n\n# 6. طريقة احتساب الدرجة\n\nاحسب الدرجة النهائية من 10 بناءً على المعايير السابقة.\n\nاستخدم هذا التفسير:\n\n* **9–10:** فكرة ممتازة جدًا، تستحق الإنتاج.\n* **8–8.9:** فكرة قوية جدًا، مناسبة للنشر.\n* **7–7.9:** فكرة جيدة، لكنها تحتاج تحسينًا بسيطًا.\n* **5–6.9:** فكرة متوسطة وتحتاج تعديلًا واضحًا.\n* **3–4.9:** فكرة ضعيفة بالنسبة للقناة.\n* **0–2.9:** فكرة غير مناسبة عمليًا حتى لو كانت مرتبطة بالتقنية.\n\nمهم:\n**الارتباط بالقناة وحده لا يعني أن الفكرة جيدة.**\nقد تكون الفكرة تقنية ولكن تحصل على درجة منخفضة إذا كانت مملة، عامة جدًا، غير عملية أو صعبة الاختصار في فيديو قصير.\n\n---\n\n# 7. عند تقييم الفكرة\n\nحلل الفكرة كما هي.\n\nلا تفترض وجود معلومات غير موجودة في الفكرة.\n\nإذا كانت الفكرة جيدة لكن يمكن تحسينها، لا ترفضها. أعطها الدرجة المناسبة واشرح باختصار ما الذي يجعلها قوية أو ضعيفة.\n\nركز على **الفكرة نفسها** وليس على جودة المونتاج أو التصوير، لأن المهمة هي تقييم فكرة المحتوى قبل إنتاج الفيديو.\n\n---\n\n# 8. صيغة الإخراج\n\nإذا كانت الفكرة مرتبطة بالقناة، يجب أن يكون الرد بهذا الشكل بالضبط:\n\n**التقييم: X/10**\n\n**السبب:**\n[شرح مختصر في سطرين يوضح لماذا حصلت الفكرة على هذه الدرجة.]\n\n**الحكم:**\n[ممتازة / قوية / جيدة وتحتاج تحسين / متوسطة / ضعيفة]\n\nلا تكتب تحليلًا طويلًا.\n\nإذا كانت الفكرة غير مرتبطة بالقناة، استخدم قاعدة الرفض المذكورة في القسم 4 فقط.\n\n---\n\n# 9. أمثلة على التقييم\n\n### مثال 1\n\nالفكرة:\n\"ما الفرق بين React وReact Native؟\"\n\nالتقييم المتوقع:\nمرتبط مباشرة بتطوير البرمجيات، وله قيمة تعليمية، ويمكن شرحه بسرعة، ويمكن بناء Hook قوي حوله.\n\n**التقييم: 9/10**\n\n---\n\n### مثال 2\n\nالفكرة:\n\"أفضل 5 مطاعم في نابلس\"\n\nالنتيجة:\n\n**مرفوض: الفكرة ليس لها علاقة بنطاق قناة GOAT Learner.**\n\n---\n\n### مثال 3\n\nالفكرة:\n\"ما هو Design System؟\"\n\nالفكرة مرتبطة مباشرة بـUI/UX، ويمكن شرحها بمثال بصري خلال أقل من دقيقة.\n\n**التقييم: 8.5/10**\n\n---\n\n### مثال 4\n\nالفكرة:\n\"ما هو الإنترنت؟\"\n\nالفكرة تقنية، لكنها عامة جدًا وقد تكون بعيدة عن الجمهور المتخصص نسبيًا، لذلك لا تحصل تلقائيًا على درجة عالية.\n\n**التقييم: 5.5/10**\n\n---\n\n# الهدف النهائي\n\nهدفك ليس البحث عن أي فكرة تقنية فقط.\n\nهدفك هو تحديد:\n\n**هل هذه الفكرة مناسبة فعلًا لـGOAT Learner؟ وهل تستحق أن تتحول إلى فيديو Short تعليمي؟**\n\nكن صارمًا في التقييم، ولا تعطِ 9 أو 10 إلا للأفكار التي تجمع بين **الارتباط بالقناة + القيمة + قابلية الانتشار + قابلية الاختصار + ملاءمة الجمهور**.\n\n# OUTPUT FORMAT\n\nيجب أن يكون ردك JSON فقط.\n\nممنوع كتابة أي نص خارج JSON.\nممنوع استخدام Markdown.\nممنوع وضع JSON داخل ```.\n\nيجب أن يحتوي JSON على هذه الحقول بالضبط:\n\n{\n  \"id\": \"معرّف الفكرة\",\n  \"idea\": \"فكرة المحتوى\",\n  \"score\": 0,\n  \"Review\": \"تقييم مختصر للفكرة\",\n  \"Reason\": \"سبب التقييم في سطرين كحد أقصى\",\n  \"Verdict\": \"الحكم النهائي\",\n  \"EmailSubject\": \"عنوان جذاب للإيميل\",\n  \"ContentTitle\": \"عنوان مقترح للفيديو\"\n}\n\n\n## قواعد الحقول\n\n### id\n\nاستخدم ID الفكرة التي تم إرسالها لك كما هو.\n\n### idea\n\nاستخدم فكرة المحتوى التي تم إرسالها لك كما هي، دون تغيير معناها.\n\n### score\n\nرقم فقط من 0 إلى 10.\n\nيمكن استخدام أرقام عشرية مثل:\n\n8.5\n9\n7.5\n\n### Review\n\nتقييم مختصر وواضح لجودة الفكرة من ناحية:\n\n- ملاءمتها للقناة.\n- قيمتها التعليمية.\n- قابليتها للتحول إلى Short.\n- قدرتها على جذب الجمهور.\n\nلا يتجاوز سطرين.\n\n### Reason\n\nاذكر أهم الأسباب التي أدت إلى هذه الدرجة.\n\nركز على نقاط القوة أو الضعف الفعلية في الفكرة.\n\nلا يتجاوز سطرين.\n\n### Verdict\n\nاستخدم أحد التصنيفات التالية فقط:\n\n\"ممتازة\"\n\"قوية\"\n\"جيدة وتحتاج تحسين\"\n\"متوسطة\"\n\"ضعيفة\"\n\"مرفوضة\"\n\n\n# EmailSubject\n\nأنشئ عنوانًا جذابًا ومختصرًا للإيميل بناءً على فكرة المحتوى.\n\nهدف EmailSubject هو تشجيع الشخص المسؤول عن مراجعة الأفكار على فتح الإيميل.\n\nالشروط:\n\n- يجب أن يكون جذابًا ومباشرًا.\n- لا تكرر اسم الفكرة حرفيًا.\n- استخدم Hook أو سؤالًا أو فائدة واضحة.\n- يجب أن يكون مناسبًا لفكرة تقنية تعليمية.\n- لا تستخدم Clickbait كاذبًا أو مبالغًا فيه.\n- يفضل ألا يتجاوز 70 حرفًا.\n- يمكن استخدام Emoji واحد فقط عند الحاجة.\n- يجب أن يحتوي على درجة الفكرة في النهاية بصيغة:\n  \"— X/10\"\n\nأمثلة:\n\nالفكرة:\n\"ما الفرق بين React و React Native؟\"\n\nEmailSubject:\n\"🔥 هل React Native هو نفسه React؟ — 9/10\"\n\nالفكرة:\n\"3 أخطاء تجعل موقعك بطيئًا\"\n\nEmailSubject:\n\"⚡ هل هذه الأخطاء تبطئ موقعك؟ — 8.5/10\"\n\nالفكرة:\n\"ما هو Design System؟\"\n\nEmailSubject:\n\"🎨 لماذا تحتاج Design System في مشاريعك؟ — 9/10\"\n\n\n# ContentTitle\n\nأنشئ عنوانًا مقترحًا للفيديو نفسه.\n\nهدف ContentTitle هو إعطاء عنوان واضح وجذاب يمكن استخدامه لاحقًا للفيديو على YouTube Shorts أو Instagram Reels أو TikTok.\n\nالشروط:\n\n- يجب أن يوضح موضوع الفيديو بسرعة.\n- يجب أن يكون قصيرًا وسهل الفهم.\n- يجب أن يجذب الشخص المهتم بالمجال التقني.\n- لا تستخدم Clickbait كاذبًا.\n- لا تجعل العنوان غامضًا لدرجة أن المشاهد لا يعرف موضوع الفيديو.\n- لا تضف معلومات غير موجودة في الفكرة.\n- يمكن استخدام سؤال أو صيغة \"كيف\" أو \"لماذا\" أو مقارنة إذا كانت مناسبة.\n- لا تجعل العنوان طويلًا.\n- لا تضع درجة التقييم داخل ContentTitle.\n- لا تستخدم Emoji في ContentTitle إلا إذا كان ضروريًا جدًا.\n\nأمثلة:\n\nالفكرة:\n\"ما الفرق بين React و React Native؟\"\n\nContentTitle:\n\"React vs React Native: شو الفرق؟\"\n\nالفكرة:\n\"3 أخطاء تجعل موقعك بطيئًا\"\n\nContentTitle:\n\"3 أخطاء بتبطّئ موقعك\"\n\nالفكرة:\n\"ما هو Design System؟\"\n\nContentTitle:\n\"Design System: شو هو وليش مهم؟\"\n\nالفكرة:\n\"كيفية استخدام Live Server في VS Code\"\n\nContentTitle:\n\"كيف تشغّل موقعك مباشرة في VS Code؟\"\n\n\n# إذا كانت الفكرة خارج نطاق القناة\n\nإذا كانت الفكرة لا علاقة لها بالمجالات الأساسية للقناة:\n\nscore = 0\n\nReview = \"الفكرة خارج نطاق القناة.\"\n\nReason = \"لا ترتبط بالمجالات الأساسية أو الجمهور المستهدف.\"\n\nVerdict = \"مرفوضة\"\n\nEmailSubject = \"فكرة خارج نطاق القناة — 0/10\"\n\nContentTitle = \"\"\n\n\n# مثال كامل على الرد الصحيح\n\n{\n  \"id\": 15,\n  \"idea\": \"ما الفرق بين React و React Native؟\",\n  \"score\": 9,\n  \"Review\": \"فكرة قوية ومناسبة جدًا للقناة، وتصلح لفيديو قصير تعليمي.\",\n  \"Reason\": \"مرتبطة مباشرة بتطوير البرمجيات وتجيب عن سؤال شائع لدى المبتدئين. كما يمكن شرح الفرق بسرعة مع أمثلة واضحة.\",\n  \"Verdict\": \"ممتازة\",\n  \"EmailSubject\": \"🔥 هل React Native هو نفسه React؟ — 9/10\",\n  \"ContentTitle\": \"React vs React Native: شو الفرق؟\"\n}"
+        }
+      },
+      "type": "@n8n/n8n-nodes-langchain.agent",
+      "typeVersion": 3.1,
+      "position": [
+        208,
+        0
+      ],
+      "id": "4aa20a32-635f-48cf-93ee-60b114f57362",
+      "name": "AI Agent"
+    },
+    {
+      "parameters": {},
+      "type": "@n8n/n8n-nodes-langchain.memoryBufferWindow",
+      "typeVersion": 1.4,
+      "position": [
+        224,
+        208
+      ],
+      "id": "7f237b86-3de8-46ee-917d-25af9a2dfbe1",
+      "name": "Simple Memory"
+    },
+    {
+      "parameters": {
+        "options": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.lmChatGoogleGemini",
+      "typeVersion": 1.1,
+      "position": [
+        80,
+        208
+      ],
+      "id": "ea86ea99-7be8-41c6-8087-4cc57cdbed0b",
+      "name": "Google Gemini Chat Model",
+      "credentials": {
+        "googlePalmApi": {
+          "id": "5bQnUFfdkzbJs3Ln",
+          "name": "Google Gemini(PaLM) Api account 2"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "jsCode": "const items = $input.all();\n\n// Get persistent workflow data\nconst staticData = $getWorkflowStaticData('global');\n\n// Initialize the counter if it doesn't exist\nif (typeof staticData.lastId !== 'number') {\n  staticData.lastId = 0;\n}\n\nreturn items.map((item) => {\n  const data = item.json;\n\n  // Generate a new ID automatically\n  staticData.lastId += 1;\n  const newId = staticData.lastId;\n\n  // Get the AI response from common possible fields\n  let response =\n    data.output ??\n    data.text ??\n    data.response ??\n    data.content ??\n    data.message ??\n    \"\";\n\n  // If the AI returned an object instead of text\n  if (typeof response !== \"string\") {\n    response = JSON.stringify(response);\n  }\n\n  // Try to extract JSON\n  let parsed = null;\n\n  try {\n    parsed = JSON.parse(response);\n  } catch (error) {\n    const jsonMatch = response.match(/\\{[\\s\\S]*\\}/);\n\n    if (jsonMatch) {\n      try {\n        parsed = JSON.parse(jsonMatch[0]);\n      } catch (e) {\n        parsed = null;\n      }\n    }\n  }\n\n  // If AI returned valid structured JSON\n  if (parsed && typeof parsed === \"object\") {\n    return {\n      json: {\n        id: newId,\n\n        idea: parsed.idea ?? data.idea ?? null,\n\n        score: Number(parsed.score ?? 0),\n\n        Review:\n          parsed.Review ??\n          parsed.review ??\n          \"\",\n\n        Reason:\n          parsed.Reason ??\n          parsed.reason ??\n          \"\",\n\n        Verdict:\n          parsed.Verdict ??\n          parsed.verdict ??\n          \"\",\n\n        EmailSubject:\n          parsed.EmailSubject ??\n          parsed.emailSubject ??\n          \"\",\n\n        ContentTitle:\n          parsed.ContentTitle ??\n          parsed.contentTitle ??\n          \"\"\n      }\n    };\n  }\n\n  // Fallback: extract fields from normal AI text\n\n  const scoreMatch = response.match(\n    /(?:التقييم|score)\\s*[:：]?\\s*(\\d+(?:\\.\\d+)?)\\s*\\/?\\s*10/i\n  );\n\n  const verdictMatch = response.match(\n    /(?:الحكم|verdict)\\s*[:：]?\\s*(.+)/i\n  );\n\n  const reasonMatch = response.match(\n    /(?:السبب|reason)\\s*[:：]?\\s*([\\s\\S]*?)(?=\\n(?:الحكم|verdict)\\s*[:：]?|$)/i\n  );\n\n  const emailSubjectMatch = response.match(\n    /(?:EmailSubject|emailSubject)\\s*[:：]?\\s*(.+)/i\n  );\n\n  const contentTitleMatch = response.match(\n    /(?:ContentTitle|contentTitle)\\s*[:：]?\\s*(.+)/i\n  );\n\n  return {\n    json: {\n      id: newId,\n\n      idea: data.idea ?? null,\n\n      score: scoreMatch\n        ? Number(scoreMatch[1])\n        : 0,\n\n      Review: response.trim(),\n\n      Reason: reasonMatch\n        ? reasonMatch[1].trim()\n        : \"\",\n\n      Verdict: verdictMatch\n        ? verdictMatch[1].trim()\n        : \"\",\n\n      EmailSubject: emailSubjectMatch\n        ? emailSubjectMatch[1].trim()\n        : \"\",\n\n      ContentTitle: contentTitleMatch\n        ? contentTitleMatch[1].trim()\n        : \"\"\n    }\n  };\n});"
+      },
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 2,
+      "position": [
+        528,
+        0
+      ],
+      "id": "3433c7fd-9599-410b-ab5c-ff87823b32fb",
+      "name": "Code in JavaScript"
+    },
+    {
+      "parameters": {
+        "conditions": {
+          "options": {
+            "caseSensitive": true,
+            "leftValue": "",
+            "typeValidation": "strict",
+            "version": 3
+          },
+          "conditions": [
+            {
+              "id": "0434772b-6408-4ca8-8f58-68ce415d28dc",
+              "leftValue": "={{ $json.score }}",
+              "rightValue": 8,
+              "operator": {
+                "type": "number",
+                "operation": "gte"
+              }
+            }
+          ],
+          "combinator": "and"
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.if",
+      "typeVersion": 2.3,
+      "position": [
+        736,
+        0
+      ],
+      "id": "f12033b4-6e1a-4936-85e6-7f29becbadcd",
+      "name": "If"
+    },
+    {
+      "parameters": {
+        "sendTo": "moathhazeem661@gmail.com",
+        "subject": "={{ $('If').item.json.EmailSubject }}",
+        "message": "=<!DOCTYPE html>\n<html lang=\"ar\" dir=\"rtl\">\n\n<head>\n  <meta charset=\"UTF-8\">\n  <meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">\n\n  <style>\n    * {\n      box-sizing: border-box;\n    }\n\n    body {\n      margin: 0;\n      padding: 0;\n      background-color: #f3f4f6;\n      font-family: Arial, Helvetica, sans-serif;\n      color: #111827;\n      direction: rtl;\n    }\n\n    .wrapper {\n      width: 100%;\n      padding: 40px 15px;\n    }\n\n    .container {\n      max-width: 680px;\n      margin: 0 auto;\n      background-color: #ffffff;\n      border-radius: 18px;\n      overflow: hidden;\n      border: 1px solid #e5e7eb;\n    }\n\n    /* Header */\n\n    .header {\n      background-color: #111827;\n      padding: 30px;\n      text-align: right;\n    }\n\n    .brand {\n      margin: 0;\n      color: #ffffff;\n      font-size: 24px;\n      font-weight: 700;\n    }\n\n    .subtitle {\n      margin: 8px 0 0;\n      color: #9ca3af;\n      font-size: 14px;\n      line-height: 1.7;\n    }\n\n    /* Main */\n\n    .content {\n      padding: 32px;\n    }\n\n    .section-label {\n      display: block;\n      margin-bottom: 8px;\n      color: #6b7280;\n      font-size: 12px;\n      font-weight: 700;\n      text-transform: uppercase;\n    }\n\n    .content-title {\n      margin: 0 0 25px;\n      color: #111827;\n      font-size: 24px;\n      line-height: 1.5;\n      font-weight: 700;\n    }\n\n    /* Score */\n\n    .score-box {\n      display: table;\n      width: 100%;\n      margin-bottom: 25px;\n      background-color: #f9fafb;\n      border: 1px solid #e5e7eb;\n      border-radius: 12px;\n    }\n\n    .score-cell {\n      display: table-cell;\n      width: 50%;\n      padding: 18px;\n      vertical-align: middle;\n    }\n\n    .score-cell:first-child {\n      border-left: 1px solid #e5e7eb;\n    }\n\n    .score-label {\n      display: block;\n      color: #6b7280;\n      font-size: 12px;\n      margin-bottom: 6px;\n    }\n\n    .score {\n      color: #16a34a;\n      font-size: 28px;\n      font-weight: 700;\n    }\n\n    .verdict {\n      display: inline-block;\n      padding: 7px 12px;\n      border-radius: 7px;\n      background-color: #dcfce7;\n      color: #166534;\n      font-size: 13px;\n      font-weight: 700;\n    }\n\n    /* Idea */\n\n    .idea-box {\n      margin-bottom: 22px;\n      padding: 20px;\n      background-color: #f9fafb;\n      border-right: 4px solid #111827;\n      border-radius: 10px;\n    }\n\n    .idea {\n      margin: 0;\n      color: #374151;\n      font-size: 15px;\n      line-height: 1.8;\n    }\n\n    /* Sections */\n\n    .section {\n      margin-bottom: 22px;\n    }\n\n    .section-title {\n      margin: 0 0 8px;\n      color: #111827;\n      font-size: 14px;\n      font-weight: 700;\n    }\n\n    .section-text {\n      margin: 0;\n      color: #4b5563;\n      font-size: 14px;\n      line-height: 1.8;\n    }\n\n    /* ID */\n\n    .meta {\n      margin-top: 25px;\n      padding-top: 18px;\n      border-top: 1px solid #e5e7eb;\n      color: #9ca3af;\n      font-size: 12px;\n    }\n\n    /* Footer */\n\n    .footer {\n      padding: 20px 30px;\n      background-color: #f9fafb;\n      border-top: 1px solid #e5e7eb;\n      text-align: center;\n    }\n\n    .footer-text {\n      margin: 0;\n      color: #9ca3af;\n      font-size: 12px;\n      line-height: 1.7;\n    }\n\n    /* Mobile */\n\n    @media only screen and (max-width: 600px) {\n\n      .wrapper {\n        padding: 0;\n      }\n\n      .container {\n        width: 100%;\n        border-radius: 0;\n        border: none;\n      }\n\n      .header {\n        padding: 25px 20px;\n      }\n\n      .content {\n        padding: 25px 20px;\n      }\n\n      .content-title {\n        font-size: 21px;\n      }\n\n      .score-cell {\n        padding: 15px;\n      }\n    }\n  </style>\n</head>\n\n<body>\n\n  <div class=\"wrapper\">\n\n    <div class=\"container\">\n\n      <!-- Header -->\n\n      <div class=\"header\">\n\n        <h1 class=\"brand\">\n          GOAT Learner\n        </h1>\n\n        <p class=\"subtitle\">\n          Content Idea Review\n        </p>\n\n      </div>\n\n\n      <!-- Content -->\n\n      <div class=\"content\">\n\n        <!-- Content Title -->\n\n        <span class=\"section-label\">\n          عنوان الفيديو المقترح\n        </span>\n\n        <h2 class=\"content-title\">\n          {{ $('If').item.json.ContentTitle }}\n        </h2>\n\n\n        <!-- Score -->\n\n        <div class=\"score-box\">\n\n          <div class=\"score-cell\">\n\n            <span class=\"score-label\">\n              التقييم\n            </span>\n\n            <span class=\"score\">\n              {{ $json.Score }}/10\n            </span>\n\n          </div>\n\n\n          <div class=\"score-cell\">\n\n            <span class=\"score-label\">\n              الحكم\n            </span>\n\n            <span class=\"verdict\">\n              {{ $json.Verdict }}\n            </span>\n\n          </div>\n\n        </div>\n\n\n        <!-- Idea -->\n\n        <div class=\"section\">\n\n          <h3 class=\"section-title\">\n            💡 الفكرة\n          </h3>\n\n          <div class=\"idea-box\">\n\n            <p class=\"idea\">\n              {{ $json.Ideas }}\n            </p>\n\n          </div>\n\n        </div>\n\n\n        <!-- Review -->\n\n        <div class=\"section\">\n\n          <h3 class=\"section-title\">\n            📊 المراجعة\n          </h3>\n\n          <p class=\"section-text\">\n            {{ $json.Review }}\n          </p>\n\n        </div>\n\n\n        <!-- Reason -->\n\n        <div class=\"section\">\n\n          <h3 class=\"section-title\">\n            🔎 سبب التقييم\n          </h3>\n\n          <p class=\"section-text\">\n            {{ $json.Reason }}\n          </p>\n\n        </div>\n\n\n        <!-- Meta -->\n\n        <div class=\"meta\">\n\n          فكرة رقم:\n          <strong>\n            {{ $json.ID }}\n          </strong>\n\n        </div>\n\n      </div>\n\n\n      <!-- Footer -->\n\n      <div class=\"footer\">\n\n        <p class=\"footer-text\">\n          تم تقييم هذه الفكرة تلقائيًا وفق معايير محتوى GOAT Learner.\n          <br>\n          الأفكار ذات التقييم 8/10 أو أعلى تستحق المراجعة.\n        </p>\n\n      </div>\n\n    </div>\n\n  </div>\n\n</body>\n\n</html>",
+        "options": {
+          "appendAttribution": false
+        }
+      },
+      "type": "n8n-nodes-base.gmail",
+      "typeVersion": 2.2,
+      "position": [
+        1136,
+        -80
+      ],
+      "id": "3ddfeaee-98e7-4761-81cf-a973d03cc0ea",
+      "name": "Send a message",
+      "webhookId": "8bc5bf8c-433f-4660-a7c5-c5f5f2e3760e",
+      "credentials": {
+        "gmailOAuth2": {
+          "id": "9NcBOjKo4wAbWWGE",
+          "name": "Gmail account"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "options": {}
+      },
+      "type": "@n8n/n8n-nodes-langchain.chatTrigger",
+      "typeVersion": 1.4,
+      "position": [
+        0,
+        0
+      ],
+      "id": "d399216c-0ab6-410c-bd55-b6c55a5d351f",
+      "name": "When chat message received",
+      "webhookId": "e352dda4-9904-4460-a7b3-34e09bf312b6"
+    },
+    {
+      "parameters": {
+        "operation": "append",
+        "documentId": {
+          "__rl": true,
+          "value": "1tWyAvD2F2CsKHVFJ4BAsYClOh_3NgoySqmbtOCeZBDw",
+          "mode": "list",
+          "cachedResultName": "Review_Ideas",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1tWyAvD2F2CsKHVFJ4BAsYClOh_3NgoySqmbtOCeZBDw/edit?usp=drivesdk"
+        },
+        "sheetName": {
+          "__rl": true,
+          "value": "gid=0",
+          "mode": "list",
+          "cachedResultName": "Ideas",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1tWyAvD2F2CsKHVFJ4BAsYClOh_3NgoySqmbtOCeZBDw/edit#gid=0"
+        },
+        "columns": {
+          "mappingMode": "defineBelow",
+          "value": {
+            "Ideas": "={{ $json.idea }}",
+            "Score": "={{ $json.score }}",
+            "Review": "={{ $json.Review }}",
+            "Reason": "={{ $json.Reason }}",
+            "Verdict": "={{ $json.Verdict }}"
+          },
+          "matchingColumns": [
+            "ID"
+          ],
+          "schema": [
+            {
+              "id": "ID",
+              "displayName": "ID",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": true
+            },
+            {
+              "id": "Ideas",
+              "displayName": "Ideas",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "Score",
+              "displayName": "Score",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "Review",
+              "displayName": "Review",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "Reason",
+              "displayName": "Reason",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "Verdict",
+              "displayName": "Verdict",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            }
+          ],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": false
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.googleSheets",
+      "typeVersion": 4.7,
+      "position": [
+        928,
+        -80
+      ],
+      "id": "0dfe24ff-349e-4e5d-a4d3-b72805c18beb",
+      "name": "Append row in sheet",
+      "credentials": {
+        "googleSheetsOAuth2Api": {
+          "id": "qPcYFvcEFGVnuJDH",
+          "name": "Google Sheets account 2"
+        }
+      }
+    },
+    {
+      "parameters": {
+        "operation": "append",
+        "documentId": {
+          "__rl": true,
+          "value": "1tWyAvD2F2CsKHVFJ4BAsYClOh_3NgoySqmbtOCeZBDw",
+          "mode": "list",
+          "cachedResultName": "Review_Ideas",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1tWyAvD2F2CsKHVFJ4BAsYClOh_3NgoySqmbtOCeZBDw/edit?usp=drivesdk"
+        },
+        "sheetName": {
+          "__rl": true,
+          "value": "gid=0",
+          "mode": "list",
+          "cachedResultName": "Ideas",
+          "cachedResultUrl": "https://docs.google.com/spreadsheets/d/1tWyAvD2F2CsKHVFJ4BAsYClOh_3NgoySqmbtOCeZBDw/edit#gid=0"
+        },
+        "columns": {
+          "mappingMode": "defineBelow",
+          "value": {
+            "Ideas": "={{ $json.idea }}",
+            "Score": "={{ $json.score }}",
+            "Review": "={{ $json.Review }}",
+            "Reason": "={{ $json.Reason }}",
+            "Verdict": "={{ $json.Verdict }}"
+          },
+          "matchingColumns": [
+            "ID"
+          ],
+          "schema": [
+            {
+              "id": "ID",
+              "displayName": "ID",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": true
+            },
+            {
+              "id": "Ideas",
+              "displayName": "Ideas",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true,
+              "removed": false
+            },
+            {
+              "id": "Score",
+              "displayName": "Score",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "Review",
+              "displayName": "Review",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "Reason",
+              "displayName": "Reason",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            },
+            {
+              "id": "Verdict",
+              "displayName": "Verdict",
+              "required": false,
+              "defaultMatch": false,
+              "display": true,
+              "type": "string",
+              "canBeUsedToMatch": true
+            }
+          ],
+          "attemptToConvertTypes": false,
+          "convertFieldsToString": false
+        },
+        "options": {}
+      },
+      "type": "n8n-nodes-base.googleSheets",
+      "typeVersion": 4.7,
+      "position": [
+        928,
+        80
+      ],
+      "id": "394d2279-7488-4726-ad7c-b25a88fbeb57",
+      "name": "Append row in sheet1",
+      "credentials": {
+        "googleSheetsOAuth2Api": {
+          "id": "qPcYFvcEFGVnuJDH",
+          "name": "Google Sheets account 2"
+        }
+      }
+    }
+  ],
+  "pinData": {},
+  "connections": {
+    "Simple Memory": {
+      "ai_memory": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_memory",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "AI Agent": {
+      "main": [
+        [
+          {
+            "node": "Code in JavaScript",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Google Gemini Chat Model": {
+      "ai_languageModel": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "ai_languageModel",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Code in JavaScript": {
+      "main": [
+        [
+          {
+            "node": "If",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "If": {
+      "main": [
+        [
+          {
+            "node": "Append row in sheet",
+            "type": "main",
+            "index": 0
+          }
+        ],
+        [
+          {
+            "node": "Append row in sheet1",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "When chat message received": {
+      "main": [
+        [
+          {
+            "node": "AI Agent",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Append row in sheet": {
+      "main": [
+        [
+          {
+            "node": "Send a message",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  },
+  "active": false,
+  "settings": {
+    "executionOrder": "v1",
+    "binaryMode": "separate"
+  },
+  "versionId": "5b7bcc42-033e-4fbb-811e-45058c8f1b4e",
+  "meta": {
+    "templateCredsSetupCompleted": true,
+    "instanceId": "312b8e1c27ba1ae94b15ee40f5b475cef18128657bfd8917a13927efa9db76b9"
+  },
+  "nodeGroups": [],
+  "id": "P7WKdNfoOrOpOCkv",
+  "tags": []
+}
